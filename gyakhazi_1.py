@@ -21,3 +21,5 @@ def lanc(szoveg, n):
 str=input()
 n=int(input())
 print(lanc(str,n))
+
+#push test
